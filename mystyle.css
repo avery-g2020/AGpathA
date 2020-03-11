@@ -1,0 +1,15 @@
+body {
+	background-color: #e6e9ff;
+}
+h1 { color:  #8597ff; 
+font-family: fantasy
+p { color: grey; }
+
+a:link, a:visited {
+  background-color: #b8c0ff;
+  color: white;
+  padding: 8px 65px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
